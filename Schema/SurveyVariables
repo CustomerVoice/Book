@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "EmbedContextParameters": {},
+        "PipeData": {
+            "type": "object",
+            "properties": {
+                "<Survey Variable>": {
+                    "type": "string"
+                },
+            }
+        }
+    }
+}
