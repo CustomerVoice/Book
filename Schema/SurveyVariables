@@ -5,9 +5,18 @@
         "PipeData": {
             "type": "object",
             "properties": {
-                "<Survey Variable>": {
+                "First Name": {
                     "type": "string"
                 },
+                "Last Name": {
+                    "type": "string"
+                },
+                "Dealer": {
+                    "type": "string"
+                },
+                "locale": {
+                    "type": "string"
+                }
             }
         }
     }
